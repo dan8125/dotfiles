@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dtravin@optonline.net
+	name = dan travin
